@@ -60,7 +60,9 @@ The following video demonstrates the system in operation, showing the sensor mea
 
 https://github.com/baby-rex/Lo-Wi_WMS-IoT/assets/POC%20working.mp4
 
-[View Demo Video](POC%20working.mp4)
+<video src="POC working.mp4" controls></video>
+
+**[Download Demo Video](POC%20working.mp4)** if the embedded video does not play.
 
 ## Showcase
 
