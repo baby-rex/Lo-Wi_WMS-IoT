@@ -58,9 +58,7 @@ The system implements a two-tier communication architecture. Client nodes equipp
 
 The following video demonstrates the system in operation, showing the sensor measurement process, LED status indicators, and data transmission workflow.
 
-https://github.com/baby-rex/Lo-Wi_WMS-IoT/assets/POC%20working.mp4
-
-<video src="POC working.mp4" controls></video>
+<video src="POC%20working.mp4" controls></video>
 
 **[Download Demo Video](POC%20working.mp4)** if the embedded video does not play.
 
