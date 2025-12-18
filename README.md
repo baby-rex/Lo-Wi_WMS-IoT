@@ -53,11 +53,9 @@ LED indicators on client nodes provide visual feedback for calibration status, d
 
 The following video demonstrates the proof of concept implementation, showing the hardware setup, sensor calibration process, and real-time data transmission:
 
-[Watch Demo Video](POC%20working.mp4)
-
-<video src="POC%20working.mp4" controls></video>
-
-> Note: If the video does not play inline, click the link above to download and view it.
+<video src="POC%20working.mp4" controls>
+  Your browser does not support video playback. <a href="POC%20working.mp4">Download the demo video</a> to view it.
+</video>
 
 ## Showcase
 
