@@ -19,7 +19,7 @@ Lo-Wi WMS-IoT is a distributed water management system that combines low-power w
 
 The system implements a two-tier communication architecture. Client nodes equipped with ultrasonic sensors measure water levels and transmit data to a central server using ESP-NOW. The server aggregates this data and forwards it to ThingSpeak via Wi-Fi, enabling cloud storage and remote access through the mobile application.
 
-![System Architecture](WMS%20BLOCK-DIAG..png)
+<img src="WMS BLOCK-DIAG..png" alt="System Architecture Diagram" width="800"/>
 
 ## Tech Stack
 
@@ -66,7 +66,7 @@ The following video demonstrates the system in operation, showing the sensor mea
 
 The mobile application was developed using MIT App Inventor, providing an intuitive interface for water management monitoring and control.
 
-![MIT App Inventor Backend](Backend%20Blocks%20of%20NeerAPI.png)
+<img src="Backend Blocks of NeerAPI.png" alt="MIT App Inventor Backend Blocks" width="800"/>
 
 ## Installation
 
